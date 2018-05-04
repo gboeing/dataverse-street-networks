@@ -1,9 +1,14 @@
+keys.py
+input_data/neighborhoods/*
+input_data/places/*
+input_data/urbanized_areas/*
+input_data/counties/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
-keys.py
 
 # C extensions
 *.so
