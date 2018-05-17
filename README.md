@@ -1,8 +1,8 @@
-# OSMnx street networks to Dataverse
+# OSMnx street networks to Dataverse repository
 
 ### Python environment
 
-Create the anaconda environment with:
+Create the OSMnx environment with:
 
 ```
 conda env create -f environment.yml
