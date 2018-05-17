@@ -1,5 +1,16 @@
 # OSMnx street networks to Dataverse repository
 
+### Citation info
+
+Boeing, G. 2017. "[OSMnx: New Methods for Acquiring, Constructing, Analyzing, and Visualizing Complex Street Networks](http://geoffboeing.com/publications/osmnx-complex-street-networks/)."
+*Computers, Environment and Urban Systems* 65, 126-139. doi:10.1016/j.compenvurbsys.2017.05.004
+
+### Process
+
+  1. Create the OSMnx Python environment (see below)
+  2. Download and un-zip the data inputs (see below)
+  3. Run the Jupyter notebooks in order
+
 ### Python environment
 
 Create the OSMnx environment with:
