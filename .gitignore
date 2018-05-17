@@ -1,4 +1,5 @@
 keys.py
+_old/*
 input_data/neighborhoods/*
 input_data/places/*
 input_data/urbanized_areas/*
