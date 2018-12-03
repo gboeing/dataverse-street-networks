@@ -1,4 +1,4 @@
-staging_folder = 'G:/Geoff/osmnx/data/staging'
+staging_folder = 'G:/Geoff/osmnx/staging'
 
 urbanized_areas_shapefile_folder = 'G:/Geoff/osmnx/data/urbanized_areas/shapefiles'
 urbanized_areas_graphml_folder = 'G:/Geoff/osmnx/data/urbanized_areas/graphml'
@@ -23,3 +23,9 @@ neighborhoods_graphml_folder = 'G:/Geoff/osmnx/data/neighborhoods/graphml'
 neighborhoods_lists_folder = 'G:/Geoff/osmnx/data/neighborhoods/node_edge_lists'
 neighborhoods_stats_folder = 'G:/Geoff/osmnx/data/neighborhoods/stats'
 neighborhoods_cache_folder = 'G:/Geoff/osmnx/cache/neighborhoods'
+
+tracts_shapefile_folder = 'G:/Geoff/osmnx/data/tracts/shapefiles'
+tracts_graphml_folder = 'G:/Geoff/osmnx/data/tracts/graphml'
+tracts_lists_folder = 'G:/Geoff/osmnx/data/tracts/node_edge_lists'
+tracts_stats_folder = 'G:/Geoff/osmnx/data/tracts/stats'
+tracts_cache_folder = 'G:/Geoff/osmnx/cache/tracts'

@@ -1,9 +1,9 @@
 keys.py
-_old/*
 input_data/neighborhoods/*
 input_data/places/*
 input_data/urbanized_areas/*
 input_data/counties/*
+input_data/tracts/*
 
 
 # Byte-compiled / optimized / DLL files
